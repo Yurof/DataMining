@@ -1,4 +1,13 @@
 # FOUILLE
+Avec la croissance exponentielle du nombre de documents mis à disposition de tous, retrouver un document pertinent semble être une tâche peu aisée. En effet, une telle quantité de données requiert une grande puissance de calcul. D'où l'intérêt de développer une méthode ingénieuse et optimisée. Cela constitue la base d'outils nouveaux, mais connus de tous aujourd'hui : les moteurs de recherche.
+
+ En particulier le livre Matrix Methods in Data Mining and Pattern Recognition, de Lars Elden, professeur émérite de mathématiques de l'Université Linköping (Suède), propose un aperçu des principales avancées dans le domaine des moteurs de recherche, notamment des méthodes mathématiques faisant intervenir les matrices.
+
+ Dans le cadre de ce projet, nous nous intéresserons en premier lieu au modèle vectoriel (Vector space model). Première grande avancée certes simple, mais astucieuse, puis nous verrons une version dérivée de celle-ci, l'analyse sémantique latente, reposant sur une décomposition en valeurs singulières (SVD). Enfin, nous terminerons par un bref aperçu d'une méthode de partitionnement des données.
+
+![alt text](https://i.imgur.com/clxUWpp.png)
+![alt text](https://i.imgur.com/yJeeGlz.png)
+
 
 ## Dépendances 
 
